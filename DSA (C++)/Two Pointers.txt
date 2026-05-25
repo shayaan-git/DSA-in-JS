@@ -1,0 +1,18 @@
+FlowChart Concept: 
+
+Array/Linked List
+↓
+Check Sorted hai ya sort karne se kaam hojayga
+↓
+Merge/Remove Duplicate/Rearrange jaisa kuch karna hai
+↓
+Detect Cycle
+↓
+Pair/Triplets/Quadruple jaisa kuch FIND karna hai
+↓
+Then use karenge TWO POINTER.
+↓
+And "Do not use extra space" likha ho aur 2 se jyada chize find karni hai, tab to TWO POINTER hi lagega!
+
+## Note: Ye bas probability increase karne ke liye hai
+Uper ke conditions match hote hai to zaruri nhi ki 100% Two Pointer hi use karenge
